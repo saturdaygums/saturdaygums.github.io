@@ -11,7 +11,15 @@ body {
 
 /* Hero Section Styles */
 .hero {
-    background: url('img/about-bg.jpg') no-repeat center center;
+    background: url('../img/about-bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.hero1 {
+    background: url('../img/guar-gum-processing.jpg') no-repeat center center;
     background-size: cover;
     color: #fff;
     padding: 100px 0;
